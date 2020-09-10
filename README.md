@@ -1,5 +1,5 @@
 Hello Guys! This is one of the famous problem "Rat in a maze".
-I have solved this using java swing. It uses recursions and Depth First Search 
+I have solved this using java and java swing framework. It uses recursions and Depth First Search 
 concepts.A rat inside the maze can move in any of eight directions from its current 
 position. Once you run the program in terminal , it will ask you to enter
 the start and end position of rat. Then a frame will open that represents 
