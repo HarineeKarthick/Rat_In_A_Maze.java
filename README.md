@@ -8,6 +8,6 @@ Then we can create walls by clicking the cells ,walls becomes black.
 Then to start running thr rat,on top left corner of this frame,click 
 menu,from that select "start".That's all .You can see how the 
 problem is getting solved .It will be very useful to understand this problem in
-depth!
+depth! I have shared one simple demo of this project in demo_link file.
 HAPPY CODING :)
      
